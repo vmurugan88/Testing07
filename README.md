@@ -1,4 +1,4 @@
-# Testing
-# sh <name of file>.sh
+# Test
+# sh test.sh
 Testing......
 
